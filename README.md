@@ -5,6 +5,13 @@ Generative Model을 다루는 Deep Learning From Scratch 5에 대한 한국어 a
 
 **각 폴더내의 코드와 Readme에 자세한 annotation을 작성 할 예정입니다.**  
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
 ### 밑의 내용은 Original Repo에 포함돼있는 내용입니다.  
 
 # Deep Learning from scratch 5
