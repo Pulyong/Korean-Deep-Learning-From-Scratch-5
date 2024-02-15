@@ -12,7 +12,7 @@ Generative Model을 다루는 Deep Learning From Scratch 5에 대한 한국어 a
 &nbsp;
 
 ---
-### 밑의 내용은 Original Repo에 포함돼있는 내용입니다.  
+### 아래 내용은 Original Repo의 내용입니다.  
 
 # Deep Learning from scratch 5
 
